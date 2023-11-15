@@ -1,0 +1,7 @@
+C:\Users\hasib\source\repos\App1\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\hasib\source\repos\App1\Indexer\bin\Debug\Indexer.exe
+C:\Users\hasib\source\repos\App1\Indexer\bin\Debug\Indexer.pdb
+C:\Users\hasib\source\repos\App1\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\hasib\source\repos\App1\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\App1\Indexer\obj\Debug\Indexer.exe
+C:\Users\hasib\source\repos\App1\Indexer\obj\Debug\Indexer.pdb

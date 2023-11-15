@@ -1,0 +1,7 @@
+C:\Users\hasib\source\repos\App1\PROPERTIES\bin\Debug\PROPERTIES.exe.config
+C:\Users\hasib\source\repos\App1\PROPERTIES\bin\Debug\PROPERTIES.exe
+C:\Users\hasib\source\repos\App1\PROPERTIES\bin\Debug\PROPERTIES.pdb
+C:\Users\hasib\source\repos\App1\PROPERTIES\obj\Debug\PROPERTIES.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\App1\PROPERTIES\obj\Debug\PROPERTIES.exe
+C:\Users\hasib\source\repos\App1\PROPERTIES\obj\Debug\PROPERTIES.pdb
+C:\Users\hasib\source\repos\App1\PROPERTIES\obj\Debug\PROPERTIES.csprojAssemblyReference.cache

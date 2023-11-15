@@ -1,0 +1,7 @@
+c:\users\hasib\source\repos\App1\App1\bin\Debug\App1.exe.config
+c:\users\hasib\source\repos\App1\App1\bin\Debug\App1.exe
+c:\users\hasib\source\repos\App1\App1\bin\Debug\App1.pdb
+c:\users\hasib\source\repos\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+c:\users\hasib\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+c:\users\hasib\source\repos\App1\App1\obj\Debug\App1.exe
+c:\users\hasib\source\repos\App1\App1\obj\Debug\App1.pdb

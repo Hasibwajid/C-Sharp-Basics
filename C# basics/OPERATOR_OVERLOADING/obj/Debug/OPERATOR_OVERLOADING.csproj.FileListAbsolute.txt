@@ -1,0 +1,7 @@
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\obj\Debug\OPERATOR_OVERLOADING.csprojAssemblyReference.cache
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\obj\Debug\OPERATOR_OVERLOADING.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\bin\Debug\OPERATOR_OVERLOADING.exe.config
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\bin\Debug\OPERATOR_OVERLOADING.exe
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\bin\Debug\OPERATOR_OVERLOADING.pdb
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\obj\Debug\OPERATOR_OVERLOADING.exe
+C:\Users\hasib\source\repos\App1\OPERATOR_OVERLOADING\obj\Debug\OPERATOR_OVERLOADING.pdb
