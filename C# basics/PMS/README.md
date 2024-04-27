@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/f61P273m7i0/0.jpg)](https://www.youtube.com/watch?v=_lWwUGFfrQM)
+[![Pharmacy Management System Demo](https://img.youtube.com/vi/_lWwUGFfrQM/0.jpg)](https://www.youtube.com/watch?v=_lWwUGFfrQM)
 
 ------------------------------------------------------------------------------------------------------
 
