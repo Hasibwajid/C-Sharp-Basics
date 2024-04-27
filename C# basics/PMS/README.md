@@ -6,6 +6,12 @@
 
 ------------------------------------------------------------------------------------------------------
 
+**Pharmacy Management System (ASP.NET MVC) - Code-First Approach**
+
+Experience a guided tour through our Pharmacy Management System built with ASP.NET MVC using the code-first approach. In this comprehensive demonstration, we'll explore the seamless integration of database design and application development, empowering pharmacists with efficient inventory management, prescription tracking, and customer interaction. Join us to witness the power of modern MVC architecture in revolutionizing pharmacy operations.
+
+------------------------------------------------------------------------------------------------------
+
 
 ![Screenshot (50)](https://github.com/Hasibwajid/C-Basics/assets/72168225/b5abd48d-fb1a-4fc6-9699-f2a0392efae1)
 
